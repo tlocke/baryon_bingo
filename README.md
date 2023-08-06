@@ -34,11 +34,11 @@ card on its position so it looks like:
 
 ![Lambda red strange](lambda_red_strange.png "Lambda Red Strange")
 
-If the caller then says, "red down", then Florence shouldn't shout "Bary!" because
-because then there would be two reds, and all the quark in a baryon must be of different
-colours. If she does shout out "Bary!" and she can't use the quark card, then as a
-penalty she has to give back one of her quark cards to the caller. Once Florence has
-collected all three quark cards of different colours the card will look like:
+If the caller then says, "red down", then Florence shouldn't shout "Bary!" because then
+there would be two reds, and all the quark in a baryon must be of different colours. If
+she does shout out "Bary!" and she can't use the quark card, then as a penalty she has
+to give back one of her quark cards to the caller. Once Florence has collected all three
+quark cards of different colours the card will look like:
 
 ![Lambda complete](lambda_complete.png "Lambda Complete")
 
